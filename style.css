@@ -1,0 +1,27 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+.form{
+    background-color: blue;
+    width:350px;
+    height: 250px;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 25px;
+    text-align: center;
+    padding: 15px;
+}
+input{
+    border-radius: 35px;
+    padding-left: 15px;
+    border: none;
+    background-color: lightgray;
+}
+button{
+    border-radius: 35px;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 30px;
+    border: none;
+}
